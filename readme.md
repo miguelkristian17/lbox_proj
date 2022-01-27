@@ -16,7 +16,7 @@ An API backend that interacts with NASA's apod API and uses REST architecture. P
 
 ## Objects
 
-![App Screenshot](/views/models.jpeg?raw=true)
+![App Screenshot](/assets/models.jpeg?raw=true)
 
 ## Tech Stack
 
